@@ -1,0 +1,6 @@
+pwd
+environ
+environ > out
+cat out
+help
+rm out
