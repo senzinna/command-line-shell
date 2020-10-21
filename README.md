@@ -1,7 +1,7 @@
 # command-line-shell
 The purpose of this project was to write a small command line shell using C. 
 
-## Date Complted
+## Date Completed
 Fall 2013 - University of South Florida
 
 ## Supported Features
